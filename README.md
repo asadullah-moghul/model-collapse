@@ -1,1 +1,1 @@
-# model-collapse
+This repository contains code, data, and resources related to my research on **model collapse in Large Language Models (LLMs) trained on synthetic data**. The study explores how **LLMs of different parameter sizes** (BLOOM-560m, GPT2-Large, GPT2-XL) respond to iterative training cycles using AI-generated text. The analysis evaluates the **impact of synthetic data** on model **diversity, relevance, and perplexity** over multiple training iterations.
